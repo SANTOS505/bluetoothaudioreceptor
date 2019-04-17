@@ -48,7 +48,15 @@
     ],
     "uniqCompNum": 26,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
