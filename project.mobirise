@@ -56,7 +56,7 @@
     "siteUrl": "https://santos505.github.io/bluetoothaudioreceptor",
     "cookiesAlert": "",
     "gdpr": "",
-    "google-analytics": "<a href=\"whatsapp://send?link=<?php the_permalink() ?>\" data-action=\"share/whatsapp/share\">Compartilhe no Whatsapp</a>",
+    "google-analytics": "<a href=\"whatsapp://send?link=<?php the_permalink() ?>\" data-action=\"share/whatsapp/share\">Compartilhe no Whatsapp</a>\r\n\r\n\r\n<a href=\"https://www.facebook.com/sharer.php?u=<?php the_permalink() ?>\" target=\"_blank\" title=\"Compartilhar <?php the_title();?> no Facebook\">Facebook</a>",
     "sitemapSwitcherAuto": "",
     "sitemapSwitcher": "on"
   },
